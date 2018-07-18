@@ -17,5 +17,4 @@ City Token
 Workflow on Factom
 ## Projects we work with
 1. [Factom](https://www.factom.com/)
-
- [Factom docs](https://docs.factom.com/)
+    [Factom docs](https://docs.factom.com/)
