@@ -9,5 +9,5 @@ CryptoGift
 City Token
 Workflow on Factom
 ## Projects we work with
-[Factom]{https://www.factom.com/}
-[Factom docs]{https://docs.factom.com/}
+[Factom](https://www.factom.com/)
+[Factom docs](https://docs.factom.com/)
