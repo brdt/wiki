@@ -5,4 +5,3 @@ The laboratory is engaged in creating an image of companies in the Blockchain en
 The laboratory conducts strategic and technical expertise of crypto-environment projects with the search for opportunities for development and problem solving, based on the experience of laboratory experts. 
 The laboratory also examines the real cases of application of Blockchain technology and offers training both individually and in the format of lectures and discussions.
 ## Our projects
-## Projects we work with
