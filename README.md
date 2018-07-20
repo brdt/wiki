@@ -9,6 +9,8 @@ experience of laboratory experts.
 
 The laboratory also examines the real cases of application of Blockchain technology and offers training both individually and in the format of lectures and discussions.
 
+
+
 ## Our projects
 CryptoGift
 
@@ -16,5 +18,21 @@ City Token
 
 Workflow on Factom
 ## Projects we work with
-1. [Factom](https://www.factom.com/)
-    [Factom docs](https://docs.factom.com/)
+###Factom
+[Factom](https://www.factom.com/)
+
+[Factom docs](https://docs.factom.com/)
+
+[GitHub Factom](https://github.com/FactomProject)
+###Golem
+
+###Ethereum
+
+###EOSIO
+
+###NEM
+
+###MainFrame
+
+###BitAddress
+[GitHub](https://github.com/pointbiz/bitaddress.org)
