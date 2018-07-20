@@ -1,6 +1,6 @@
 # About laboratory BRDT.pro
 ## Our mission
-A research laboratory studying the applicability of Blockchain-based technologies and their integration into various sectors of the economy.
+A research laboratory studying the applicability of Blockchain-based technologies and their integration into various sectors of economy.
 
 The laboratory is engaged in creating an image of companies in the Blockchain environment and helps to gain the necessary knowledge and skills to use Blockchain technology. 
 
