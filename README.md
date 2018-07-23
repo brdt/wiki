@@ -20,6 +20,8 @@ Workflow on Factom
 
 Factom allows to create, organize, report and audit proofs of documents, data, decisions and activities within your organization.
 
+Laboratory is developing a document management system
+
 [Factom](https://www.factom.com/)
 
 [Factom docs](https://docs.factom.com/)
@@ -28,6 +30,8 @@ Factom allows to create, organize, report and audit proofs of documents, data, d
 ## Golem
 
 Golem is creating a global market for computing power.
+
+Laboratory testing platform and develops hypotheses for use in the design office
 
 [Golem](https://golem.network/)
 
@@ -39,6 +43,8 @@ Golem is creating a global market for computing power.
 
 Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.
 
+Lab launches smart-contracts and dApps
+
 [Ethereum](https://www.ethereum.org/)
 
 [Ethereum docs](http://www.ethdocs.org/en/latest/)
@@ -46,6 +52,8 @@ Ethereum is a decentralized platform that runs smart contracts: applications tha
 [GitHub Ethereum](https://github.com/ethereum)
 
 ## EOSIO
+
+Laboratory testing platform
 
 [eos.io](https://eos.io/)
 
