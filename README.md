@@ -16,21 +16,21 @@ City Token
 
 Workflow on Factom
 # Projects we work with
-##Factom
+## Factom
 [Factom](https://www.factom.com/)
 
 [Factom docs](https://docs.factom.com/)
 
 [GitHub Factom](https://github.com/FactomProject)
-##Golem
+## Golem
 
-##Ethereum
+## Ethereum
 
-##EOSIO
+## EOSIO
 
-##NEM
+## NEM
 
-##MainFrame
+## MainFrame
 
-##BitAddress
+## BitAddress
 [GitHub](https://github.com/pointbiz/bitaddress.org)
